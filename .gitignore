@@ -17,6 +17,7 @@ figures_prediction/
 **/build/
 model_save/
 logs/
+dataset/
 graphs/
 eval_results/
 tensorboard/
